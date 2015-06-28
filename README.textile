@@ -17,3 +17,4 @@ commands:
 * rails s -p 9000
 ________________________
 
+!http://abelard2008.github.io/images/Screen-Shot-sphinx-2015-06-28.png!(Screen Shot sphinx search)
