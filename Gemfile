@@ -18,7 +18,7 @@ group :development do
   gem 'better_errors'
   gem 'quiet_assets'
   gem 'rails_layout'
-  gem 'spring-commands-rspec'
+#  gem 'spring-commands-rspec'
 end
 group :development, :test do
   gem 'factory_girl_rails'
@@ -36,3 +36,6 @@ group :test do
   gem 'launchy'
   gem 'selenium-webdriver'
 end
+gem 'thinking-sphinx', '~> 3.1.0'
+gem 'mysql2'
+gem 'will_paginate', '~> 3.0.6'
